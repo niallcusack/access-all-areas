@@ -1,2 +1,2 @@
-# access-all-areas
+# Access All Areas
 Accessibility Tools
